@@ -11,13 +11,13 @@
 
 - 📫 How to reach me **oxpack887@gmail.com**
 
-- 📄 Know about my experiences [https://takalani-mukwevho.github.io/portfolio/](https://takalani-mukwevho.github.io/portfolio/)
+- 📄 Portfolio [https://takalani-mukwevho.github.io/portfolio/](https://takalani-mukwevho.github.io/portfolio/)
 
 - ⚡ Fun fact **: Nothing is funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/takalani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/takalani/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/takalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="takalani" height="30" width="40" /></a>
 <a href="https://fb.com/takalani-mukwevho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="takalani-mukwevho" height="30" width="40" /></a>
 </p>
 
