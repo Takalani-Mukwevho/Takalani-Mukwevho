@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anything to build my Knowlegde**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **oxpack887@gmail.com**
 
